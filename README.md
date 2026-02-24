@@ -10,7 +10,7 @@ Software engineer with 3+ years of experience building production-scale distribu
 
 ### 🛠️ Featured Projects
 * **[sed.i](https://github.com/enpuyou)**: An AI-native Read-It-Later platform featuring an async ingestion pipeline, PDF extraction, and semantic retrieval using LLM-generated embeddings.
-* **[Commute Routing Orchestrator](https://github.com/enpuyou/commute-optimizer)**: An attemp at multi-agent system (n8n, 3 sub-agents + LLM decision engine) exposed as an **MCP tool** for natural language commute planning.
+* **[commute-optimizer](https://github.com/enpuyou/commute-optimizer)**: An attemp at multi-agent system (n8n, 3 sub-agents + LLM decision engine) exposed as an **MCP tool** for natural language commute planning.
 * **[hearSound](https://github.com/enpuyou/hearSound)**: Undergrad thesis on transforming human speech into musical composition.
 
 ### 🎓 Education
