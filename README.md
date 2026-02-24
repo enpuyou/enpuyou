@@ -4,7 +4,7 @@
 <span style="color: #000080"><b>USER_INFO</b></span>
 <span style="color: #800000"><b>─────────</b></span>
 <b>Name:</b> Enpu You
-<b>Role:</b> Backend & AI Engineer
+<b>Role:</b> Software Engineer
 <b>Base:</b> Seattle, WA
 <b>Status:</b> MSIS @ University of Washington
 <b>Uptime:</b> 3+ Years in Production Systems
