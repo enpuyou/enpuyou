@@ -31,7 +31,7 @@
 
 <span style="color: #000080"><b>MEDIA_PLAYER (Music Identity)</b></span>
 <span style="color: #800000"><b>─────────────────────────────</b></span>
-<b>Current:</b> DJ / Vinyl Enthusiast (Crate Digging)
+<b>Current:</b> Crate Digging
 <b>Mix:</b> <a href="https://music.apple.com/us/album/bbd-selects-019-enpu-dj-mix/1871105815">BBD Selects 019 - Enpu DJ Mix</a>
 
 <span style="color: #008000"><b>enpu@seattle</b></span>:<span style="color: #0000FF"><b>~</b></span>$ <span style="text-decoration: blink">
