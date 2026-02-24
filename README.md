@@ -1,22 +1,37 @@
-# Hi, I'm [Enpu](https://enpuyou.netlify.app) :eyes::space_invader:
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
+<span style="color: #008000"><b>enpu@seattle</b></span>:<span style="color: #0000FF"><b>~</b></span>$ fetch-profile --user enpuyou
 
-**Backend & AI Engineer | MSIS @ University of Washington**
+<span style="color: #000080"><b>USER_INFO</b></span>
+<span style="color: #800000"><b>─────────</b></span>
+<b>Name:</b> Enpu You
+<b>Role:</b> Backend & AI Engineer
+<b>Base:</b> Seattle, WA
+<b>Status:</b> MSIS @ University of Washington
+<b>Uptime:</b> 3+ Years in Production Systems
 
-Software engineer with 3+ years of experience building production-scale distributed systems. Currently working with architectural integration of **LLMs and agentic workflows** to solve complex business logic challenges. 
+<span style="color: #000080"><b>ACTIVE_DAEMONS (Core Skills)</b></span>
+<span style="color: #800000"><b>───────────────────────────</b></span>
+<b>[  OK  ]</b> LLM Orchestration & Agentic Workflows
+<b>[  OK  ]</b> High-Throughput Ingestion Pipelines
+<b>[  OK  ]</b> Multi-tenant API Architecture
+<b>[  OK  ]</b> Semantic Search & Vector DBs (pgvector)
+<b>[  OK  ]</b> Python, Java, SQL, FastAPI, Docker, K8s
 
-- Previously @ ScienceLogic: Webhook Service for 100+ enterprise customers and engineered time-series predictive alerting for an Observability Analytics SaaS platform.
-- Former record store manager and coffee shop co-owner. Collaborated with city officials in Pittsburgh to launch a city-wide Crisis Support Program for service workers.
+<span style="color: #000080"><b>RUNNING_PROCESSES (Featured Projects)</b></span>
+<span style="color: #800000"><b>─────────────────────────────────────</b></span>
+<b>PID 001:</b> <a href="https://github.com/enpuyou">sed.i</a> - AI-native Read-It-Later platform
+<b>PID 002:</b> <a href="https://github.com/enpuyou/commute-optimizer">Commute Routing Orchestrator</a> - Multi-agent system
+<b>PID 003:</b> <a href="https://github.com/enpuyou/hearSound">hearSound</a> - Speech-to-Music Composition Thesis
 
+<span style="color: #000080"><b>SYSTEM_HISTORY (Work & Experience)</b></span>
+<span style="color: #800000"><b>──────────────────────────────────</b></span>
+<b>[2021-2024]</b> <a href="https://sciencelogic.com/">ScienceLogic</a>: Engineered Webhook Service and Analytics SaaS
+<b>[2022-2025]</b> <b>Leadership</b>: Managed records & coffee; drove city crisis policy
+<b>[2017-2021]</b> <b>Allegheny</b>: BS Computer Science & Classical Piano
 
-### 🛠️ Featured Projects
-* **[sed.i](https://github.com/enpuyou)**: An AI-native Read-It-Later platform featuring an async ingestion pipeline, PDF extraction, and semantic retrieval using LLM-generated embeddings.
-* **[commute-optimizer](https://github.com/enpuyou/commute-optimizer)**: An attemp at multi-agent system (n8n, 3 sub-agents + LLM decision engine) exposed as an **MCP tool** for natural language commute planning.
-* **[hearSound](https://github.com/enpuyou/hearSound)**: Undergrad thesis on transforming human speech into musical composition.
+<span style="color: #000080"><b>MEDIA_PLAYER (Music Identity)</b></span>
+<span style="color: #800000"><b>─────────────────────────────</b></span>
+<b>Current:</b> DJ / Vinyl Enthusiast (Crate Digging)
+<b>Mix:</b> <a href="https://music.apple.com/us/album/bbd-selects-019-enpu-dj-mix/1871105815">BBD Selects 019 - Enpu DJ Mix</a>
 
-### 🎓 Education
-* **MS in Information Systems**: University of Washington - Foster School of Business.
-* **BS in Computer Science & Classical Piano**: Allegheny College (Phi Beta Kappa).
-
-Digging crates. Check out my latest mix here: [Apple Music BBD Selects 019](https://music.apple.com/us/album/bbd-selects-019-enpu-dj-mix/1871105815)
-  
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enpuyou.enpuyou&title=Views)
+<span style="color: #008000"><b>enpu@seattle</b></span>:<span style="color: #0000FF"><b>~</b></span>$ <span style="text-decoration: blink">
