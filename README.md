@@ -26,7 +26,7 @@
 <span style="color: #000080"><b>SYSTEM_HISTORY (Work & Experience)</b></span>
 <span style="color: #800000"><b>──────────────────────────────────</b></span>
 <b>[2021-2024]</b> <a href="https://sciencelogic.com/">ScienceLogic</a>: Engineered Webhook Service and Analytics SaaS
-<b>[2024-2025]</b> <b>dv suzhou</b>: ; manager for independent record store and wine bar
+<b>[2024-2025]</b> <b>dv suzhou</b>: manager for independent record store and wine bar
 <b>[2022-2024]</b> <b>creative coffee & supply</b>: Co-owner; drove legistation for city crisis support program
 <b>[2017-2021]</b> <b>Allegheny</b>: BS Computer Science & Classical Piano
 
