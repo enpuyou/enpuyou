@@ -20,8 +20,8 @@
 <span style="color: #000080"><b>RUNNING_PROCESSES (Featured Projects)</b></span>
 <span style="color: #800000"><b>─────────────────────────────────────</b></span>
 <b>PID 001:</b> <a href="https://github.com/enpuyou">sed.i</a> - AI-native Read-It-Later platform
-<b>PID 002:</b> <a href="https://github.com/enpuyou/commute-optimizer">Commute Routing Orchestrator</a> - Multi-agent system
-<b>PID 003:</b> <a href="https://github.com/enpuyou/hearSound">hearSound</a> - Speech-to-Music Composition Thesis
+<b>PID 002:</b> <a href="https://github.com/enpuyou/commute-optimizer">commute-optimizer</a> - Attempt at n8n Multi-agent system for routing decisions
+<b>PID 003:</b> <a href="https://github.com/enpuyou/hearSound">hearSound</a> - Undergrad Thesis for Speech-to-Music Composition
 
 <span style="color: #000080"><b>SYSTEM_HISTORY (Work & Experience)</b></span>
 <span style="color: #800000"><b>──────────────────────────────────</b></span>
