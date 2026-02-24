@@ -1,27 +1,36 @@
 # Hi, I'm [Enpu](https://enpuyou.netlify.app) :eyes::space_invader:
 
-### Pianist | Software Developer
+**Backend & AI Engineer | MSIS @ University of Washington**
 
-A recent graduate from Allegheny College double majoring in **Computer Science** and **Music**,
-thinking about the interaction of music and humanity in the digital world. Interested in
-cloud computing, software engineering, music technology. Currently working at ScienceLogic.
+Software engineer with 3+ years of experience building production-scale distributed systems. Currently working with architectural integration of **LLMs and agentic workflows** to solve complex business logic challenges.
 
-- :dart: Working on [Tada](https://tada-predict.netlify.app) and [hearSound](https://github.com/enpuyou/hearSound).
-- :electric_plug: Learning audio processing and SuperCollider.
-- :musical_keyboard: Jazz improv beginner.
-- :page_facing_up: See my [resume](https://github.com/enpuyou/resume/blob/main/main.pdf).
-- :email: Reach me at youenpu@gmail.com
+---
 
-![Enpu's github stats](https://github-readme-stats.vercel.app/api?username=enpuyou&show_icons=true&hide_border=true&count_private=true&title_color=5232a8&icon_color=457a59)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enpuyou&layout=compact&title_color=5232a8&hide_border=true&langs_count=8)](https://github.com/enpuyou)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enpuyou&" alt="enpuyou" /></p>
+### 🚀 Technical Focus
+* **AI Engineering:** LLM integration, pgvector semantic search, multi-agent orchestration (n8n, MCP), and prompt engineering.
+* **Backend Systems:** High-throughput ingestion pipelines, multi-tenant API services, and predictive alerting.
+* **Tech Stack:** Python, Java, SQL, FastAPI, Docker, Kubernetes, and AWS.
 
+### 🛠️ Featured Projects
+* **[sed.i](https://github.com/enpuyou)**: An AI-native Read-It-Later platform featuring an async ingestion pipeline, PDF extraction, and semantic retrieval using LLM-generated embeddings.
+* **[Commute Routing Orchestrator](https://github.com/enpuyou/commute-optimizer)**: An attemp at multi-agent system (n8n, 3 sub-agents + LLM decision engine) exposed as an **MCP tool** for natural language commute planning.
+* **[hearSound](https://github.com/enpuyou/hearSound)**: Undergrad thesis on transforming human speech into musical composition.
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Allegheny-Mozilla-Fellows&repo=textMining)](https://github.com/Allegheny-Mozilla-Fellows/textMining)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tada-Project&repo=tada)](https://github.com/Tada-Project/tada)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enpuyou&repo=script-api-lambda-dynamodb)](https://github.com/enpuyou/script-api-lambda-dynamodb)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GatorEducator&repo=gatorgradle)](https://github.com/GatorEducator/gatorgradle)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVMf&repo=avmf)](https://github.com/AVMf/avmf)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inTestiGator&repo=pytest-santa)](https://github.com/inTestiGator/pytest-santa) -->
+### 📈 Professional Background
+* **Software Engineer @ ScienceLogic**: Webhook Service for 100+ enterprise customers and engineered time-series predictive alerting for an Observability Analytics SaaS platform.
+* **Community Leadership**: Former record store manager and coffee shop co-owner. Collaborated with city officials in Pittsburgh to launch a city-wide Crisis Support Program for service workers.
 
+### 🎓 Education
+* **MS in Information Systems**: University of Washington - Foster School of Business.
+* **BS in Computer Science & Classical Piano**: Allegheny College (Phi Beta Kappa).
+
+---
+
+### 🎵 Beyond the Code
+When I'm not engineering systems, I'm a DJ and vinyl enthusiast. Check out my latest mix here: [Apple Music BBD Selects 019](https://music.apple.com/us/album/bbd-selects-019-enpu-dj-mix/1871105815)
+
+**📫 Connect with me:**
+* 📧 [youenpu@gmail.com](mailto:youenpu@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/enpuyou)
+  
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enpuyou.enpuyou&title=Views)
